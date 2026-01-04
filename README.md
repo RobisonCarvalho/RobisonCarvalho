@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Robison Carvalho sou do brasileiro.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">Designer gráfico a mais de 17 anos e atualmente apaixonado por desenvolvivento web.</p>
+<p align="left">Meu nome é Robison Carvalho sou do brasileiro. Designer gráfico a mais de 17 anos e atualmente evoluindo como desenvolvedor web.</p>
 
 ###
 
