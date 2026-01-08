@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Robison Carvalho sou do brasileiro. Designer gráfico e atualmente evoluindo como desenvolvedor web.</p>
+<p align="left">Meu nome é Robison Carvalho sou do brasileiro. Minha jornada no design começou no design gráfico, criando identidades visuais e materiais que comunicavam ideias no papel e nas telas. Com o tempo, percebi que queria ir além da estética e passar a construir experiências digitais completas — foi aí que migrei para o web design. Hoje, uno o olhar criativo do design gráfico com a lógica e usabilidade do digital, desenvolvendo projetos que não só são bonitos, mas também funcionais, intuitivos e pensados para o usuário.</p>
 
 ###
 
